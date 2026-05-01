@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+qdrant-client[fastembed]>=1.14.2
+tqdm
+dotenv
